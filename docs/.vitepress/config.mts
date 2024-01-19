@@ -5,6 +5,7 @@ export default defineConfig({
   title: "WIKI",
   description: "多莉魔法学院知识库",
   // base: '/generalwiki/',
+  base: '/',
   lang: 'zh-CN',
   ignoreDeadLinks: true,
   // outDir: '../dist',
