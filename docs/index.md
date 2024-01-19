@@ -6,7 +6,7 @@ title: 苹果教程
 
 ::: tip
 <center>
-<video src="./public/m3u8/prog_index.m3u8" controls></video>
+<video src="./m3u8/prog_index.m3u8" controls></video>
 </center>
 :::
 
