@@ -9,7 +9,7 @@ title: Windows教程
 ## 01 下载地址
 
 ::: tip
-[英文原版安装包](./client/win-en-31.exe)｜[中文汉化版安装包](./client/win-zh-38.exe)
+[英文原版安装包](./public/client/win-en-31.exe)｜[中文汉化版安装包](./public/client/win-zh-38.exe)
 :::
 
 ## 02 视频教程
