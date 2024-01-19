@@ -56,12 +56,6 @@ title: 苹果教程
 
 ::: -->
 
-<!-- <script setup>
-import Test from './components/test.vue';
-</script>
-
-<Test /> -->
-
 <style>
   video {
     width: 100%;
