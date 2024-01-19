@@ -8,7 +8,7 @@ export default defineConfig({
   base: '/',
   lang: 'zh-CN',
   ignoreDeadLinks: true,
-  outDir: '../dist',
+  // outDir: '../dist',
   themeConfig: {
     sidebar: [
       {
