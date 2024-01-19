@@ -16,6 +16,8 @@ title: 安卓教程
 
 ## 02 视频教程
 
+手机请横屏观看
+
 ::: tip 2.1 自动订阅·必看
 <center>
 <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >

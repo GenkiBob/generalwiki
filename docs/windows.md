@@ -12,7 +12,7 @@ title: Windows教程
 
 <a href="https://assets.tyro.wiki/general/win-en-31.exe" style="">英文原版安装包</a>
 ｜
-<a href="./public/client/win-zh-38.exe" style="">中文汉化版安装包</a>
+<a href="https://assets.tyro.wiki/general/win-zh-38.exe" style="">中文汉化版安装包</a>
 
 :::
 

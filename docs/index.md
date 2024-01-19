@@ -44,7 +44,7 @@ title: 苹果教程
 
 ## 02 视频教程
 
-首次使用强烈建议看完视频教程，操作非常简单!
+手机请横屏观看
 
 ::: tip 2.1 登录 App Store
 <center>
@@ -57,7 +57,7 @@ title: 苹果教程
 ::: tip 2.2 自动订阅
 <center>
 <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
-<source src="https://assets.tyro.wiki/v/i/login/prog_index.m3u8" type="application/x-mpegURL" />
+<source src="https://assets.tyro.wiki/v/i/click/prog_index.m3u8" type="application/x-mpegURL" />
 </video>
 </center>
 :::
@@ -65,7 +65,7 @@ title: 苹果教程
 ::: tip 2.3 手动订阅
 <center>
 <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
-<source src="https://assets.tyro.wiki/v/i/login/prog_index.m3u8" type="application/x-mpegURL" />
+<source src="https://assets.tyro.wiki/v/i/copy/prog_index.m3u8" type="application/x-mpegURL" />
 </video>
 </center>
 :::
