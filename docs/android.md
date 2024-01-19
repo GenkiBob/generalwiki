@@ -17,7 +17,7 @@ title: 安卓教程
 ::: tip 2.1 自动订阅·必看
 
 <video controls>
-  <source src="./v/a/click.webm" type="video/webm" />
+  <source src="./public/v/a/click.webm" type="video/webm" />
 </video>
 
 :::
