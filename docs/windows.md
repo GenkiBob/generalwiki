@@ -4,7 +4,7 @@ lang: zh-CN
 title: Windows教程
 ---
 
-# 安卓/鸿蒙 手机/平板 教程
+# Windows 教程
 
 ## 01 下载地址
 
