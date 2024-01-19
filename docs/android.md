@@ -26,7 +26,7 @@ title: 安卓教程
 ::: tip 2.2 复制订阅·推荐
 
 <video controls>
-  <source src="./v/a/copy.webm" type="video/webm" />
+  <source src="./public/v/a/copy.webm" type="video/webm" />
 </video>
 
 :::
@@ -34,7 +34,7 @@ title: 安卓教程
 ::: tip 2.3 节点选择·推荐
 
 <video controls>
-  <source src="./v/a/node.webm" type="video/webm" />
+  <source src="./public/v/a/node.webm" type="video/webm" />
 </video>
 
 :::
@@ -42,7 +42,7 @@ title: 安卓教程
 ::: tip 2.4 模式区别·推荐
 
 <video controls>
-  <source src="./v/a/model.webm" type="video/webm" />
+  <source src="./public/v/a/model.webm" type="video/webm" />
 </video>
 
 :::
@@ -50,7 +50,7 @@ title: 安卓教程
 ::: tip 2.5 访问控制·进阶
 
 <video controls>
-  <source src="./v/a/control.webm" type="video/webm" />
+  <source src="./public/v/a/control.webm" type="video/webm" />
 </video>
 
 :::
@@ -58,7 +58,7 @@ title: 安卓教程
 ::: tip 2.6 局域网共享·进阶
 
 <video controls>
-  <source src="./v/a/lan.webm" type="video/webm" />
+  <source src="./public/v/a/lan.webm" type="video/webm" />
 </video>
 
 :::

@@ -17,7 +17,7 @@ title: Mac教程
 ::: tip 2.1 使用教程
 
 <video controls>
-  <source src="./v/m/mac.webm" type="video/webm" />
+  <source src="./public/v/m/mac.webm" type="video/webm" />
 </video>
 
 :::

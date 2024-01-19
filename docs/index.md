@@ -28,7 +28,7 @@ title: 苹果教程
 ::: tip 2.1 登录 App Store
 
 <video controls>
-  <source src="./v/i/login.webm" type="video/webm" />
+  <source src="./public/v/i/login.webm" type="video/webm" />
 </video>
 
 :::
@@ -36,7 +36,7 @@ title: 苹果教程
 ::: tip 2.2 自动订阅
 
 <video controls>
-  <source src="./v/i/click.webm" type="video/webm" />
+  <source src="./public/v/i/click.webm" type="video/webm" />
 </video>
 
 :::
@@ -44,7 +44,7 @@ title: 苹果教程
 ::: tip 2.3 手动订阅
 
 <video controls>
-  <source src="./v/i/copy.webm" type="video/webm" />
+  <source src="./public/v/i/copy.webm" type="video/webm" />
 </video>
 
 :::
