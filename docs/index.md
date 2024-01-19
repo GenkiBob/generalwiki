@@ -6,7 +6,7 @@ title: 苹果教程
 
 ::: tip
 <center>
-<video src="./m3u8/prog_index.m3u8" controls autoplay></video>
+<video src="./public/m3u8/prog_index.m3u8" controls autoplay></video>
 </center>
 :::
 
@@ -64,8 +64,8 @@ import Test from './components/test.vue';
 
 <style>
   video {
+    width: 100%;
     height: 400px;
-    
   }
 </style>
 
