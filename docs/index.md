@@ -4,8 +4,13 @@ lang: zh-CN
 title: 苹果教程
 ---
 
+::: tip
+<center>
+<video src="./public/m3u8/prog_index.m3u8" controls autoplay></video>
+</center>
+:::
 
-# IOS/iPad OS通用软件教程
+<!-- # IOS/iPad OS通用软件教程
 
 需要下载的软件名请看视频教程2.2。
 
@@ -49,7 +54,13 @@ title: 苹果教程
   <source src="./public/v/i/copy.webm" type="video/webm" />
 </video>
 
-:::
+::: -->
+
+<!-- <script setup>
+import Test from './components/test.vue';
+</script>
+
+<Test /> -->
 
 <style>
   video {
