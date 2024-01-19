@@ -10,7 +10,7 @@ title: Windows教程
 
 ::: tip
 
-<a href="./client/win-en-31.exe" style="">英文原版安装包</a>
+<a href="https://assets.tyro.wiki/general/win-en-31.exe" style="">英文原版安装包</a>
 ｜
 <a href="./public/client/win-zh-38.exe" style="">中文汉化版安装包</a>
 
@@ -19,11 +19,11 @@ title: Windows教程
 ## 02 视频教程
 
 ::: tip 2.1 使用教程
-
-<video controls>
-  <source src="./public/v/w/windows.webm" type="video/webm" />
+<center>
+<video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
+<source src="https://assets.tyro.wiki/v/w/prog_index.m3u8" type="application/x-mpegURL" />
 </video>
-
+</center>
 :::
 
 <style>

@@ -10,7 +10,7 @@ title: Mac教程
 
 ::: tip
 
-<a href="./client/macpro.dmg" style="">点击下载</a>
+<a href="https://assets.tyro.wiki/general/macpro.dmg" style="">点击下载</a>
 ｜
 <a href="https://webs.lanzoue.com/ClashXPro" style="">备份下载</a>
 
@@ -20,9 +20,11 @@ title: Mac教程
 
 ::: tip 2.1 使用教程
 
-<video controls>
-  <source src="./public/v/m/mac.webm" type="video/webm" />
+<center>
+<video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
+<source src="https://assets.tyro.wiki/v/m/prog_index.m3u8" type="application/x-mpegURL" />
 </video>
+</center>
 
 :::
 
