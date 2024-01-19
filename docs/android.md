@@ -9,7 +9,10 @@ title: 安卓教程
 ## 01 下载地址
 
 ::: tip
-[下载安装包](./client/cfa.apk)｜[备用下载地址](https://webs.lanzoue.com/CFA-Meta)
+
+<a href="./client/cfa.apk" style="">点击下载</a>
+｜
+<a href="https://webs.lanzoue.com/CFA-Meta" style="">备用下载</a>
 :::
 
 ## 02 视频教程

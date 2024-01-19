@@ -9,7 +9,11 @@ title: Mac教程
 ## 01 下载地址
 
 ::: tip
-[点击下载](./public/client/macpro.dmg)｜[备份下载](https://webs.lanzoue.com/ClashXPro)
+
+<a href="./client/macpro.dmg" style="">点击下载</a>
+｜
+<a href="https://webs.lanzoue.com/ClashXPro" style="">备份下载</a>
+
 :::
 
 ## 02 视频教程
