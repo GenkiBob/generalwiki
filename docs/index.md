@@ -21,17 +21,20 @@ title: 苹果教程
 
 # IOS/iPad OS通用软件教程
 
-需下载的软件请看 “2.2 自动订阅”视频教程。
+需下载的软件请看 “2.2 自动订阅”视频教程，或点击此链接<a class="btn btn-hero-primary" href="https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8" target="_blank"><i class="fas fa-download ">软件下载</i></a>，点击前请确保已更换ID。
+
+<span style="color:red;">注意：共享账号仅用于登录App Store（苹果应用商城），不能从 IPhone/IPad 设置 中登录！！！</span>
 
 ## 01 获取 APPLE ID
 
 ::: tip 共享 ID
-<img src="https://assets.tyro.wiki/img/i/appstore.webp" style="width:60px;height:60px;"/>
+
+<!-- <img src="./img/i/appstore.webp" style="width:60px;height:60px;"/> -->
 
 [共享一](https://idfree.top)｜[共享二](https://apple.laogoubi.net/s/c7d1e73290a646f2513f6f0b75843b0b)｜[共享三](https://idshare.me)｜[共享四](https://idshare.me)｜[共享五](https://appleid.iossid.com)｜[共享六](https://aunlock.laogoubi.net/s/df4ab9de842ce5f0abefcc560cf504f0)｜[共享七](https://aunlock.laogoubi.net/s/1ddec87e5432ed7d6fb11056bc53fd6a.top)
 
 
-共享账号仅能登录 App Store ，若误登iCloud会出现锁机风险，建议查看下列2.1项视频教程。
+共享账号仅能登录 App Store，若误登iCloud会出现锁机风险，建议查看下列2.1项视频教程。
 
 <div style="text-align: right;">以上信息均通过公开途径收集，更新时间：2024-01-20 </div>
 :::
@@ -49,7 +52,8 @@ title: 苹果教程
 ::: tip 2.1 登录 App Store
 <center>
 <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
-<source src="https://assets.tyro.wiki/v/i/login/prog_index.m3u8" type="application/x-mpegURL" />
+<!-- <source src="https://wiki.tyro.wiki/v/i/login/prog_index.m3u8" type="application/x-mpegURL" /> -->
+<source src="./public/v/i/login.webm" type="application/x-mpegURL" />
 </video>
 </center>
 :::
@@ -57,7 +61,7 @@ title: 苹果教程
 ::: tip 2.2 自动订阅
 <center>
 <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
-<source src="https://assets.tyro.wiki/v/i/click/prog_index.m3u8" type="application/x-mpegURL" />
+<source src="./public/v/i/click.webm" type="application/x-mpegURL" />
 </video>
 </center>
 :::
@@ -65,7 +69,7 @@ title: 苹果教程
 ::: tip 2.3 手动订阅
 <center>
 <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
-<source src="https://assets.tyro.wiki/v/i/copy/prog_index.m3u8" type="application/x-mpegURL" />
+<source src="./public/v/i/copy.webm" type="application/x-mpegURL" />
 </video>
 </center>
 :::

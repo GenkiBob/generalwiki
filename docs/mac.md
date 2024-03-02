@@ -22,7 +22,7 @@ title: Mac教程
 
 <center>
 <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" >
-<source src="https://assets.tyro.wiki/v/m/prog_index.m3u8" type="application/x-mpegURL" />
+<source src="./public/v/m/mac.webm" type="application/x-mpegURL" />
 </video>
 </center>
 
